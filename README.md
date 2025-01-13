@@ -1,4 +1,4 @@
-Calculadora de Índice de Masa Corporal (IMC)
+Calculadora de Índice de Masa Corporal (IMC) para personas mayores de 20 años
 
 Objetivo: 
 
